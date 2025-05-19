@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\",
+  "WorkspaceRootPath": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{337C42BE-47B3-4069-A941-B71604050ED8}|Lab2.vcxproj|solutionrelative:Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{BBE936C6-7FDC-43AA-9C65-B2A8A8BFC6DC}|solutionrelative:Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Source.cpp",
+              "ToolTip": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAABAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-28T06:51:37.282Z",
               "EditorCaption": ""
@@ -54,27 +54,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Class1.cs",
+              "ToolTip": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:25:09.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T07:25:09.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Lab2.cpp",
-              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Lab2.cpp",
               "RelativeDocumentMoniker": "Lab2.cpp",
-              "ToolTip": "C:\\Users\\bakht\\Desktop\\\u0423\u0447\u0451\u0431\u0430 1 \u0441\u0435\u043C 2024\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Lab2\\Lab2.cpp",
+              "ToolTip": "C:\\Users\\bakht\\Desktop\\Git\\FinalWork\\Lab2\\Lab2.cpp",
               "RelativeToolTip": "Lab2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-14T06:26:55.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T06:26:55.824Z"
             }
           ]
         }
