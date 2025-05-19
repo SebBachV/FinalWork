@@ -17,13 +17,13 @@ void fillBooks(Book books[], int& count) {
 
     for (int i = 0; i < count; i++) {
         cout << "Книга " << i + 1 << ":\n";
-        cout << "Автор: ";
+        cout << "Издатель: ";
         cin >> books[i].author;
-        cout << "Название: ";
+        cout << "Наименование: ";
         cin >> books[i].title;
-        cout << "Год издания: ";
+        cout << "Год выпуска: ";
         cin >> books[i].year;
-        cout << "Число страниц: ";
+        cout << "Количество страниц: ";
         cin >> books[i].pages;
         cin.ignore(); 
     }
